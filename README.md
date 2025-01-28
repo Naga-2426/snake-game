@@ -1,6 +1,3 @@
-Sure! Below is an example of a **README.md** file for your Snake Game project on GitHub. This file will help anyone visiting your repository understand how to use, install, and contribute to your project.
-
----
 
 # Snake Game - Python (Pygame)
 
